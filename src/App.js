@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
-import bootstrap from ''
+//import NavBar from './components/navbar.jsx'
+import test1 from './images/Icon_RGB.png';
+
+const test2 = test1
 
 class App extends Component {
   render() {
     return (
-      <h1>hi</h1>
+      <img src={test1}/>
     );
   }
 }
