@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
-//import App from './App';
-//import logo from 'Horizontal_Combination_Mark_RGB.png'
+import App from './App';
+import logo from 'Horizontal_Combination_Mark_RGB.png'
 
 const test1 = 'Horizontal_Combination_Mark_RGB.png'
 
