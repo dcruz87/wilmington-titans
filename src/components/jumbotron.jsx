@@ -7,13 +7,14 @@ class Jumbotron extends Component {
   render() {
     return (
       <div>
-        <div className = "jumbotron test">
-          <div className = "container-fluid">
-            <h1 className = "" >hi</h1>
+        <div className = "jumbotron-fluid jumbobackground">
+          <div className = "container-fluid test">
+            <div>
+              <h1>hi</h1>
+            </div>
           </div>
         </div>
       </div>
-
     );
   }
 }
