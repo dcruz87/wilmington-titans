@@ -6,7 +6,6 @@ class App extends Component {
   render() {
     return (
       <div>
-        {/*Load Navbar*/}
         <NavBar/>
         <Jumbotron/>
       </div>

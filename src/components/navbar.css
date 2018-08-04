@@ -1,0 +1,19 @@
+@import url("default_vars.css");
+
+.testing123 {
+  width:200px;
+  height:50px;
+}
+
+.testbg {
+  background-color:var(--titan-grey);
+  color: var(--titan-white);
+}
+
+a {
+  color:var(--titan-white) !important;
+}
+
+a:hover {
+  color:var(--titan-light-grey) !important;
+}
