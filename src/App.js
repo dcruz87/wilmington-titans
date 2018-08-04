@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import NavBar from './components/navbar.jsx'
 import Jumbotron from './components/jumbotron.jsx'
+import NavBar from './components/navbar.jsx'
 
 class App extends Component {
   render() {

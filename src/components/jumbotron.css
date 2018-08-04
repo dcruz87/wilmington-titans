@@ -7,10 +7,12 @@
 }
 
 .jumbobackground {
+
   width: fill;
   height: 500px;
   margin: 0px;
   padding: 0px;
+  margin-top: 55px;
 
   background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(../images/photoplaceholder.JPG);
   background-repeat: no-repeat;
