@@ -1,0 +1,19 @@
+.test {
+  background-image: url(../images/Horizontal_Combination_Mark_RGB_scaled.png), linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5));
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto 100%;
+  background-color: #e90917;
+
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: fill;
+  height: 400px;
+
+  /*logo red: e90917
+    logo yellow: f2d260
+  */
+
+}
